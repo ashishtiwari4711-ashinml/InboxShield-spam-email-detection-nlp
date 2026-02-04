@@ -1,4 +1,3 @@
-# InboxShield-spam-email-detection-nlp
 
 # *NLP Spam Email Detection System*
 
